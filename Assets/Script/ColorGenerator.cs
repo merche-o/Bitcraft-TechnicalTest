@@ -12,7 +12,6 @@ public class ColorGenerator : MonoBehaviour {
     public GameObject sprite;
     public float waitingTime = 2;
 
-    bool isReady = true;
     float countDown;
     // Use this for initialization
 	void Start () {
